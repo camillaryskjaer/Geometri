@@ -10,6 +10,7 @@ namespace Geometri
     public abstract class Shape
     {
         // method declaration!
+        //Her kunne du godt være lidt mere skarp og dokumentere hvad metoderne gør!
         public abstract double Circumference();
         public abstract double Area();
     }
